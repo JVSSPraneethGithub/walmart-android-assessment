@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Walmart</string>
+    <string name="country_list_failure">Error! Failed to fetch Countries-list</string>
+</resources>
